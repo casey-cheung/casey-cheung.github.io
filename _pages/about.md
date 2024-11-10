@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate based in [the National Graphene Institute](https://www.graphene.manchester.ac.uk/ngi/) at the University of Manchester. I specialise in the fabrication of micro-electromechanical systems (MEMS) for studying tribological properties of two-dimensional materials.
+I'm a PhD candidate in Condensed Matter Physics at the University of Manchester, working in [the National Graphene Institute](https://www.graphene.manchester.ac.uk/ngi/). My research focuses on designing and fabricating novel micro-electromechanical systems (MEMS) to study the tribological properties of two-dimensional (2D) materials. 
