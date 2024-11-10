@@ -25,10 +25,10 @@ author:
   name             : "Casey K. Cheung"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Manchester, England"
+  employer         : "University of Manchester"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "casey.cheung@manchester.ac.uk" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   # impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-5431-6711"
   # semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Casey-Cheung-2"
   # scopus           : # URL
 
