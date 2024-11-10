@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a postgraduate researcher at the University of Manchester.
+I'm a PhD candidate based in [the National Graphene Institute](https://www.graphene.manchester.ac.uk/ngi/) at the University of Manchester. I sp
